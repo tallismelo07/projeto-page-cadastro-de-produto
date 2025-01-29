@@ -43,6 +43,14 @@ body {
     top: -70px;
 }
 
+.imagem-cadastro {
+    width: 426px;
+    height: 377px;
+    position: absolute;
+    right: 600px;
+    top: 500px;
+}
+
 .main-list {
     display: flex;
     flex-direction: column;
